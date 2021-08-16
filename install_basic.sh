@@ -18,3 +18,4 @@ sudo apt install gh -y
 mkdir distr
 wget -P ~/distr/ https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i --force-depends ~/distr/google-chrome-stable_current_amd64.deb
+

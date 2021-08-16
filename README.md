@@ -8,10 +8,11 @@ wget -P ~/git/init_pc https://github.com/owlengineer/Helpful-Wiki/archive/master
 tar -xf ~/git/init_pc/master.tar.gz -C git/init_pc
 ```
 
-2. Launch scripts you want
+2. Scripts params
 
 ```
-bash configure_owlengineer.sh "ssh_key_title"
+bash configure_owlengineer.sh "ssh_key_title" # "workstation by default"
+bash install_docker.sh "docker-compose version"  # 1.29.2 by default
 ```
 
 
