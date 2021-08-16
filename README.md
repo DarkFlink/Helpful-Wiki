@@ -1,4 +1,6 @@
-## Usage
+# Helpful-Wiko
+
+## Install basic soft
 
 1. Enter in terminal
 
