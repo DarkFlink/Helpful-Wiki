@@ -1,4 +1,6 @@
-## Usage
+# Helpful-Wiki
+
+### Install basic soft
 
 1. Enter in terminal
 
