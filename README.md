@@ -1,4 +1,4 @@
-# Helpful-Wiko
+# Helpful-Wiki
 
 ### Install basic soft
 
