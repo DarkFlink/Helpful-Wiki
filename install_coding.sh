@@ -1,5 +1,6 @@
 sudo apt install python3.8 python3.8-venv python3-pip -y
 sudo pip3 install -U pip setuptools
+sudo pip3 install --upgrade pip
 
 
 # mongodb
